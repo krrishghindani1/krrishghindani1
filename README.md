@@ -1,5 +1,5 @@
-Hi there 👋
-This is Krrish
+###Hi there 👋
+###This is Krrish
 
 
 As a student, I am assiduous and motivated, imbued with a sense of obligation and a preoccupation with punctiliousness and deference. My fervor for acquiring new knowledge and disseminating it to others is indomitable. For instance, I presided over a webinar for over 100 students, fostering interaction and creativity in mathematics. My proclivity for a cross-disciplinary approach to education prompted me to master front-end languages such as HTML, CSS, and JavaScript, despite my initial lack of expertise. This has furnished me with a distinctive combination of analytical aptitudes, problem-solving dexterity, and a zest for learning and utilizing programming languages and cutting-edge technologies.
