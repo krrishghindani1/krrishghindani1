@@ -9,12 +9,11 @@ I am a cooperative person, consistently assuming leadership roles in group endea
 In my mathematical studies, I have challenged myself to flourish by undertaking formidable projects and executing autonomous research. This drive towards growth and distinction is manifest in my various achievements, including my international accolades and published research. I am proud of my devotion, arduous work, and fortitude, which enable me to confront success and failure with equanimity.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on enhancing people's lives on a large scale!
+- 🔭 I’m currently working on making people's lives on a large scale!
 - 🌱 I’m currently learning Java and its frameworks and libs.
 - 👯 I’m looking to collaborate on project that aims at making a bigger change in this world.
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
 - 📫 How to reach me: mail: krrishghindani1@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love working. That says a lot about me!
+- ⚡ Fun fact: I love working on various projects that have a long-term vision.
 
